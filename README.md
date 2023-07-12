@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **go and linux**
 
-- 👨‍💻 All of my projects are available at [https://devgrimaldo.com/](https://devgrimaldo.com/)
+- 👨‍💻 All of my projects are available at [https://grimaldodev.com/](https://grimaldodev.com/)
 
 - 💬 Ask me about **Ask me about next.js, react.js, gsap and three.js**
 
