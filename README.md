@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **Ask me about next.js, react.js, gsap and three.js**
 
-- 📫 How to reach me **jawes@devgrimaldo.com**
+- 📫 How to reach me **james@grimaldodev.com**
 
 - 📄 Know about my experiences [https://www.canva.com/design/DAFbKh6dCyk/-FyC78M3mzIDqpvDy4Ogcg/view?website#4](https://www.canva.com/design/DAFbKh6dCyk/-FyC78M3mzIDqpvDy4Ogcg/view?website#4)
 
