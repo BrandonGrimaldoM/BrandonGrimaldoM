@@ -3,7 +3,7 @@
 
 
 
-- 👨‍💻 All of my projects are available at [grimaldodev.com](https://portfolio.readyweb.dev/)
+- 👨‍💻 All of my projects are available at [Portfolio](https://portfolio.readyweb.dev/)
 
 - 💬 Ask me about **Ask me about next.js, react.js, Astro.js, gsap and three.js**
 
@@ -30,7 +30,6 @@
    <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white">
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
 <img src="https://img.shields.io/badge/css-%231572B6.svg?style=for-the-badge&logo=css&logoColor=white">
-  <img src="https://img.shields.io/badge/Taildwind-%232596BE.svg?style=for-the-badge&logo=taildwindC&logoColor=white">
    <img src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white">
   <img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white">
 </span>
